@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "17obHWE6M0ninOhNwbkNbOAriVnFnORXTzQquE0LELw=",
+  "Source": "ApiCachingApp",
+  "BasePath": "_content/ApiCachingApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
